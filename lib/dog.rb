@@ -12,6 +12,4 @@ class Dog
   end
 end
 
-fido = Dog.new("Fido")
 
-fido.name
